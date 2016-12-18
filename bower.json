@@ -1,0 +1,23 @@
+{
+  "name": "spring-mvc-angular-test",
+  "version": "0.1",
+  "authors": [
+    "Victor Malyshev <vmalyshev0@gmail.com>"
+  ],
+  "description": "Test project using Spring and Angular",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8"
+  }
+}
